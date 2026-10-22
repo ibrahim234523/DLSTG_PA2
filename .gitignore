@@ -1,0 +1,14 @@
+# data and large artifacts (the report needs GIFs and figures, so those are NOT ignored)
+data/
+*.pt
+*.pth
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+# os / editor
+.DS_Store
+.vscode/
+.idea/
